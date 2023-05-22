@@ -1,0 +1,1 @@
+Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language. Visit our documentation at [smithy.io](https://smithy.io) to learn more.
